@@ -1,6 +1,6 @@
 //Finds all self-contained (non-calling) functions
 //@author jvstech
-//@category _NEW_
+//@category Search
 //@keybinding 
 //@menupath 
 //@toolbar 
